@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deborah
-- 👀 I’m interested in coding, particularly data science and machine learning
+- 👀 I’m interested in all things coding 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me deborahnwankwo@hotmail.com 
 
